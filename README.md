@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jungyeon Kim
+- 👋 Hi, I’m Jungyeon
 - 👀 I’m interested in automation, reinforcemennt learning, simulation, smart manufacturing, process optimization, etc.
 - 🌱 I’m currently learning mechanical engineering & conducting research on optimization of robot control based on reinforcement learning.
 - 💞️ I’m looking to collaborate on reinforcement learning, simulation, robot control, optimization, and computer vision.
